@@ -1,0 +1,4 @@
+.sass-cache
+*.css.map
+public/stylesheets/css/*.css
+bower_components

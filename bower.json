@@ -1,0 +1,11 @@
+{
+  "name": "web-skeleton",
+  "version": "0.1.0",
+  "author": [
+    "Thomas Frei"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "normalize.scss": "~3.0.1+normalize.3.0.1"
+  }
+}
