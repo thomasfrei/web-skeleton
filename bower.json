@@ -6,6 +6,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "normalize.scss": "~3.0.1+normalize.3.0.1"
+    "normalize.scss": "master"
   }
 }
