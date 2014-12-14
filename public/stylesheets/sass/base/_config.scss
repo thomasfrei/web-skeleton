@@ -1,5 +1,11 @@
 // Compass Vertical Rhythm Settings
-$base-font-size			: 	16px !default; 	// Sets the base font size
-$base-line-height		: 	24px !default;	// Set the base Line Height
-$rhythm-unit			: 	"rem" !default;	// Sets Rhythm Ubit to rem, Default em
-$round-to-nearest-half-line	: 	true !default;
+// -----------------------------------------
+$base-font-size				: 	16px 	!default; 	// Sets the base font size
+$base-line-height			: 	24px 	!default;	// Set the base Line Height
+$rhythm-unit				: 	"rem" 	!default;	// Sets Rhythm Ubit to rem, Default em
+$round-to-nearest-half-line	: 	true 	!default;
+
+// Font Awesome Config
+// -----------------------------------------
+$fa-font-path				:	"../fonts" 	!default;	// Path to font files
+$fa-css-prefix				:	fa 			!default;	// Change the default prefix
