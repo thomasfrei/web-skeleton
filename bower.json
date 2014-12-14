@@ -1,11 +1,12 @@
 {
   "name": "web-skeleton",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": [
     "Thomas Frei"
   ],
   "license": "MIT",
   "dependencies": {
-    "normalize.scss": "master"
+    "normalize.scss": "master",
+    "fontawesome" : "master"
   }
 }
